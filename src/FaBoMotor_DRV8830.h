@@ -13,7 +13,7 @@
 #include <Arduino.h>
 #include <Wire.h>
 
-#define DRV8830_SLAVE_ADDRESS 0x64 ///< Default I2C Slave Address
+#define DRV8830_SLAVE_ADDRESS 0x60 ///< Default I2C Slave Address
 
 /// @name Register Addresses
 /// @{
