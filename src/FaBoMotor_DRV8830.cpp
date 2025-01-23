@@ -14,7 +14,7 @@
 */
 FaBoMotor::FaBoMotor(uint8_t addr) {
   _i2caddr = addr;
-  Wire.begin();
+  //Wire.begin();
 }
 
 /**
